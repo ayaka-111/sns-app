@@ -114,7 +114,7 @@ snsの画像投稿アプリを作成(instagram参考)
 
 ### ダイレクトメッセージ画面
 [pc]
-![DM](./public/DM.png)
+![DM](./public/dm.png)
 
 [phone]
 
