@@ -1,16 +1,14 @@
 ## プロジェクトタイトル
 firstgram
 
-## ロゴ
-
 ## プロジェクトの概要
 snsの画像投稿アプリを作成(instagram参考)
 
 ## 使用言語
 - React
-- 状態管理(Redux,Reduxtoolkit,hooks)
+- 状態管理(hooks)
 - TypeScript
-- scss(FLOOCSS)
+- scss(BEM)
 - Firebase(Firestore Database,Storage,Authentication)
 - Docker
 
@@ -89,7 +87,8 @@ snsの画像投稿アプリを作成(instagram参考)
 
 - コンポーネントの切り分けはatomicデザインを意識して作成
 
-## プロジェクトのスクリーンショット
+## プロジェクトの画面一例
+
 
 ## こだわりポイント
 
