@@ -88,6 +88,20 @@ snsの画像投稿アプリを作成(instagram参考)
 - コンポーネントの切り分けはatomicデザインを意識して作成
 
 ## プロジェクトの画面一例
+### ログイン画面
+![ログイン画面](./public/login.png) 
+
+### 投稿一覧画面
+![投稿一覧](./public/postlook.png)
+
+### マイページ
+![マイページ](./public/mypage.png) 
+
+### ダイレクトメッセージ画面
+![DM](./public/DM.png)
+
+### ユーザー検索画面
+![検索](./public/search.png) 
 
 
 ## こだわりポイント
