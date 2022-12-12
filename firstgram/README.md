@@ -93,7 +93,7 @@ snsの画像投稿アプリを作成(instagram参考)
 ![ログイン画面](./public/login.png) 
 
 [phone]
-![ログイン画面(スマホ)](./public/login-p.PNG) 
+<img src="./public/login-p.PNG" width="600px">
 
 ### 投稿一覧画面
 [pc]
