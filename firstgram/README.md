@@ -89,20 +89,39 @@ snsの画像投稿アプリを作成(instagram参考)
 
 ## プロジェクトの画面一例
 ### ログイン画面
+[pc]
 ![ログイン画面](./public/login.png) 
 
+[phone]
+![ログイン画面(スマホ)](./public/login-p.PNG) 
+
 ### 投稿一覧画面
+[pc]
 ![投稿一覧](./public/postlook.png)
 
+[phone]
+![投稿一覧(スマホ)](./public/postlook-p.PNG) 
+
 ### マイページ
+[pc]
 ![マイページ](./public/mypage.png) 
 
+[phone]
+![マイページ(スマホ)](./public/mypage-p.PNG) 
+
 ### ダイレクトメッセージ画面
+[pc]
 ![DM](./public/DM.png)
 
+[phone]
+![DM(スマホ)](./public/DM-p.PNG) 
+
 ### ユーザー検索画面
+[pc]
 ![検索](./public/search.png) 
 
+[phone]
+![検索(スマホ)](./public/search-p.PNG) 
 
 ## こだわりポイント
 
