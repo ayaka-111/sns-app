@@ -8,7 +8,7 @@ snsの画像投稿アプリを作成(instagram参考)
 
 ## 使用言語
 - React
-- 状態管理(Redux,Reduxtoolkit)
+- 状態管理(Redux,Reduxtoolkit,hooks)
 - TypeScript
 - scss(FLOOCSS)
 - Firebase(Firestore Database,Storage,Authentication)
