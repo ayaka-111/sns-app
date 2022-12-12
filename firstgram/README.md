@@ -101,30 +101,32 @@ snsの画像投稿アプリを作成(instagram参考)
 ![投稿一覧](./public/postlook.png)
 
 [phone]
-![投稿一覧(スマホ)](./public/postlook-p.PNG) 
+
+<img src="./public/postlook-p.jpg" width="300px">
 
 ### マイページ
 [pc]
 ![マイページ](./public/mypage.png) 
 
 [phone]
-![マイページ(スマホ)](./public/mypage-p.PNG) 
+
+<img src="./public/mypage-p.jpg" width="300px">
 
 ### ダイレクトメッセージ画面
 [pc]
 ![DM](./public/DM.png)
 
 [phone]
-![DM(スマホ)](./public/DM-p.PNG) 
+
+<img src="./public/DM-p.jpg" width="300px">
 
 ### ユーザー検索画面
 [pc]
 ![検索](./public/search.png) 
 
 [phone]
-![検索(スマホ)](./public/search-p.PNG) 
 
-## こだわりポイント
+<img src="./public/search-p.jpg" width="300px"> 
 
 
 <!-- 【盛り込むべき内容】
