@@ -1,7 +1,7 @@
 ## プロジェクトURL
 https://firstgram-1b4ce.web.app/login/
 
-下記ゲスト用アカウントでログインするか新規登録を行なってください。
+下記ゲスト用アカウントでログインするか新規登録を行う。
 
 メールアドレス：guest@example.com
 
